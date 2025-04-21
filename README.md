@@ -40,3 +40,10 @@
 
     % Agregamos la clase AuthController.php adjunta.
 
+# Modificar /routes/api.php
+
+    % Agregamos la clase api.php adjunta.
+
+# Correr servidor
+
+    % php artisan serve
