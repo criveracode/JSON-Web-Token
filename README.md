@@ -1,4 +1,4 @@
-<h1>JSON Web Token</h1>
+<h1 align="center">JSON Web Token</h1>
 
 # Creación Backend
 
