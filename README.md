@@ -1,2 +1,6 @@
-# JSON-Web-Token
- Instalación en laravel 12 
+# JSON Web Token
+
+# Creación Backend
+
+% laravel new backend
+
